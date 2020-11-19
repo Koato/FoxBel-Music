@@ -2,10 +2,10 @@
 
 ## Pautas para el desarrollo del proyecto.
 
-Modelo: [Modelo Figma](https://www.figma.com/file/WR7r3GOUauL9EdOLHun0IdfE/Foxbel-Music?node-id=0%3A1)
-API a consumir: [Deezer](https://developers.deezer.com/api)
-Fuentes: [Fuentes](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
-Iconos: [Iconos](https://glyphicons.com/)
+- Modelo: [Modelo Figma](https://www.figma.com/file/WR7r3GOUauL9EdOLHun0IdfE/Foxbel-Music?node-id=0%3A1)
+- API a consumir: [Deezer](https://developers.deezer.com/api)
+- Fuentes: [Fuentes](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
+- Iconos: [Iconos](https://glyphicons.com/)
 
 
 ## Getting Started with Create React App
