@@ -1,10 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from "./pages/App";
 import reportWebVitals from './reportWebVitals';
+import 'primeicons/primeicons.css';
+import 'primereact/resources/themes/saga-blue/theme.css';
+import 'primereact/resources/primereact.css';
+import 'primeflex/primeflex.css';
 
 ReactDOM.render(
   <React.StrictMode>
+    <App />
   </React.StrictMode>,
+    // <App />,
   document.getElementById('root')
 );
 
